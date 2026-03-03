@@ -29,9 +29,9 @@ Ce fichier sert aussi de **compte rendu de mise en place du CI/CD**.
 
 ### 2.1. Vue d’ensemble (schéma)
 
-> Le schéma est stocké dans `docs/architecture-github-action.png`.
+> Le schéma est stocké dans `docs/image.png`.
 
-![Architecture globale du projet](docs/architecture-github-action.png)
+![Architecture globale du projet](docs/image.png)
 
 ---
 
