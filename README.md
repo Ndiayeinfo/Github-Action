@@ -124,7 +124,9 @@ docker run -p 8000:8000 \
 
 ### 6.3. API backend (Swagger / Requête)
 
-*(à remplir avec une capture de la doc Swagger ou d’un appel API réussi)*
+> Exemple de requête `GET /employees/` réussie dans Swagger, stockée dans `docs/backend-swagger-get.png`.
+
+![API backend – Requête GET /employees/](docs/backend-swagger-get.png)
 
 ---
 
