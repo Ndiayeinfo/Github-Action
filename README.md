@@ -110,16 +110,11 @@ docker run -p 8000:8000 \
 
 ## 6. Captures d’écran
 
-Cette section sera remplie avec les captures d’écran que vous fournirez.
-
 ### 6.1. CI GitHub Actions
 
-*(à remplir avec une capture du workflow vert)*  
-Exemple de syntaxe que nous utiliserons :
+> La capture d’écran de la CI est stockée dans `docs/ci-success.png`.
 
-```markdown
-![Workflow GitHub Actions réussi](docs/images/ci-success.png)
-```
+![Workflow GitHub Actions réussi](docs/ci-success.png)
 
 ### 6.2. Application frontend
 
