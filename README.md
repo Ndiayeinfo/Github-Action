@@ -27,6 +27,10 @@ Ce fichier sert aussi de **compte rendu de mise en place du CI/CD**.
   - Workflow : `.github/workflows/build-and-deploy.yml`
   - Docker Hub utilisé comme registry d’images.
 
+### 2.1. Vue d’ensemble (schéma)
+
+![Architecture globale du projet](assets/architecture-github-action.png)
+
 ---
 
 ## 3. Workflow GitHub Actions
