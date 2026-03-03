@@ -118,7 +118,9 @@ docker run -p 8000:8000 \
 
 ### 6.2. Application frontend
 
-*(à remplir avec une capture de l’interface React)*
+> Capture de l’interface principale, stockée dans `docs/frontend-ui.png`.
+
+![Application frontend – Gestion des Employés](docs/frontend-ui.png)
 
 ### 6.3. API backend (Swagger / Requête)
 
