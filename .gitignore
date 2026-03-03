@@ -1,0 +1,30 @@
+backend-fastapi-gtp/devop-notes.txt
+
+# Frontend (React)
+frontend-react-gtp/node_modules
+frontend-react-gtp/build
+frontend-react-gtp/coverage
+frontend-react-gtp/.env
+frontend-react-gtp/.env.*
+
+# Backend (FastAPI)
+backend-fastapi-gtp/.venv
+backend-fastapi-gtp/__pycache__/
+backend-fastapi-gtp/.pytest_cache/
+backend-fastapi-gtp/.mypy_cache/
+backend-fastapi-gtp/.ruff_cache/
+backend-fastapi-gtp/.env
+backend-fastapi-gtp/.env.*
+
+# Fichiers sensibles / génériques
+.env
+*.env
+secrets.*
+*secret*
+*.pem
+*.key
+*.pfx
+*.p12
+*.cer
+*.crt
+
