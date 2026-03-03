@@ -46,6 +46,9 @@ jobs:
     defaults:
       run:
         working-directory: backend-fastapi-gtp
+    env:
+      # Base de données légère pour les tests CI (évite la dépendance à PostgreSQL)
+      DATABASE_URL: sqlite:///./test.db
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
